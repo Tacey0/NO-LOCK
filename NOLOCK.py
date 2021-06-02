@@ -28,9 +28,9 @@ print(f'''{Fore.GREEN}
 ░ ░░   ░ ▒░  ░ ▒ ▒░     ░ ░ ▒    ░ ▒ ▒░   ░  ▒   ░ ░▒ ▒░
    ░   ░ ░ ░ ░ ░ ▒        ░ ░  ░ ░ ░ ▒  ░        ░ ░░ ░ 
          ░     ░ ░          ░      ░ ░  ░ ░      ░  ░    
-                 MADE BY Touski''')
-
-
+                 MADE BY Touski
+              Github : TheyLoveTouski
+''')
 
 @client.event
 async def on_message(message):
