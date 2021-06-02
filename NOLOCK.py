@@ -30,6 +30,7 @@ print(f'''{Fore.GREEN}
          ░     ░ ░          ░      ░ ░  ░ ░      ░  ░    
                  MADE BY Touski
               Github : TheyLoveTouski
+  btw just put ur own custom emojis in the random.choice such as :dog:
 ''')
 
 @client.event
