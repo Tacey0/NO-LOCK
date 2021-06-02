@@ -11,13 +11,14 @@ from colorama import Fore
 from colorama import Fore as C
 from discord.ext import commands
 
-os.system("title NO LOCK MADE BY TOUSKI")
 
 prefix = "."
 
 client = discord.Client()
 client = commands.Bot(command_prefix=prefix, self_bot=True)
 client.remove_command('help') 
+
+os.system("title NO LOCK MADE BY TOUSKI")
 
 print(f'''{Fore.GREEN}
  ███▄    █  ▒█████       ██▓    ▒█████   ▄████▄  ▀██ ▄█▀
