@@ -1,14 +1,18 @@
 import discord
 import json
 import colorama
-from colorama import Fore
-from colorama import Fore as C
-from discord.ext import commands
 import random
 import asyncio
 import datetime
 import time
+import os
 
+
+from colorama import Fore
+from colorama import Fore as C
+from discord.ext import commands
+
+os.system("title NO LOCK MADE BY TOUSKI")
 
 client = discord.Client()
 prefix = "."
